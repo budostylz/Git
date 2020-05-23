@@ -4,14 +4,19 @@
 CLONE
 -------
 git clone git@github.com:budostylz/Mathematics.git
+
 git remote add github git@github.com:budostylz/Mathematics.git
+
 git remote -v
+
 git push github master
 
 ADD - COMMIT - PUSH
 
 git add --all
+
 git commit -m 'commit'
+
 git push github master
 
 git push --set-upstream github master
@@ -19,15 +24,11 @@ git push --set-upstream github master
 
 
 Digital Ocean
-ssh root@167.99.13.42
-
-
-
-
-
 
 //ssh
+
 git clone git@github.com:budostylz/susanBuck/e15/tree/master/bookmark
 
 //http
+
 git clone https://github.com/udacity/reactnd-contacts-server2.git 
