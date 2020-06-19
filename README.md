@@ -25,7 +25,8 @@ git push github master
 
 git push --set-upstream github master
 
-
+MERGE
+--------
 [Git merge is not possible because I have unmerged files](https://stackoverflow.com/questions/36086202/git-merge-is-not-possible-because-i-have-unmerged-files)
 
 Digital Ocean
