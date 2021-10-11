@@ -38,3 +38,7 @@ git clone git@github.com:budostylz/susanBuck/e15/tree/master/bookmark
 //http
 
 git clone https://github.com/udacity/reactnd-contacts-server2.git 
+
+BRANCH
+--------
+git checkout -b dev-ios
