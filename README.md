@@ -41,4 +41,4 @@ git clone https://github.com/udacity/reactnd-contacts-server2.git
 
 BRANCH
 --------
-git checkout -b dev-ios
+git checkout -b branch-name
