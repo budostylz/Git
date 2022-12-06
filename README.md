@@ -29,6 +29,8 @@ MERGE
 --------
 [Git merge is not possible because I have unmerged files](https://stackoverflow.com/questions/36086202/git-merge-is-not-possible-because-i-have-unmerged-files)
 
+git merge <branch>
+
 Digital Ocean
 
 //ssh
