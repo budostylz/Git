@@ -44,3 +44,6 @@ git clone https://github.com/udacity/reactnd-contacts-server2.git
 BRANCH
 --------
 git checkout -b branch-name
+
+## Delete a Branch
+[Delete a Branch](https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/)
